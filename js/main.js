@@ -143,9 +143,9 @@ const volumeIcon = document.querySelector('#volume-icon');
 // Song titles
 const songs = [
   {
-    title: 'Vazhikatti',
-    artist: 'Fejo',
-    src: 'Fejo-Vazhikatti-Kizhakku-Suryan.m4a'
+    title: 'Baila Lento',
+    artist: 'sma$her',
+    src: 'Baila Lento.mp3'
   }
 ];
 
